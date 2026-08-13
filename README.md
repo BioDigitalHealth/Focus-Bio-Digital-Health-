@@ -30,10 +30,10 @@ Software Stack & AI Integration Gemma 4 (E4B): Runs natively on-device (Edge-AI)
 AlphaFold 3 Pipeline: Used in the backend to model how specific nutraceuticals prevent the enzymatic degradation of Claudin-5. 
 
 Roadmap & Next Steps :
-> Phase 1: Finalize CAD schematics for WfbM woodworking production. 
-> Phase 2: Release basic ESP32 firmware for LED and valve triggering. 
-> Phase 3: Integrate local Gemma 4 vision module for canine pupillometry tracking.
-> Phase 4: Initiate pilot studies in cooperation with global pet longevity biobanks. 
+Phase 1: Finalize CAD schematics for WfbM woodworking production. 
+Phase 2: Release basic ESP32 firmware for LED and valve triggering. 
+Phase 3: Integrate local Gemma 4 vision module for canine pupillometry tracking.
+Phase 4: Initiate pilot studies in cooperation with global pet longevity biobanks. 
 
 Contributing & License 
 We believe that medical and technological breakthroughs should belong to humanity. This project is licensed under the CERN Open Hardware Licence and the MIT License for software. 
