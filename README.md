@@ -60,4 +60,4 @@ How can you use the ecosystem for your business:
 
 To use the uncensored Partnership-Sandbox around this ecosystem, please contact the core maintainer directly, or please look at the details in the eMail.
 
-> Protecting innovation through openness <> Apache-2.Licence <
+> Protecting innovation through openness <> Apache-2.License <
